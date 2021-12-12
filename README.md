@@ -1,16 +1,21 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="35%">
 </p>
 
-## Hey! I'm Emmanuel :wave: :nerd_face: 
+
+  <h1 align="center"> I'm Emmanuel :wave: :nerd_face:  </h1>
+
+
 
 [![GitHub](https://img.shields.io/github/followers/LeyCod?label=follow&style=social)](https://github.com/LeyCod)
+
+
 
 <br>
 
 <details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  <summary align="center"> <b> Things to know about me! </b> :point_left: <i>(click to expand!)</i> </summary>
   
   <br>
   
@@ -50,9 +55,10 @@
 
 ### - I'm currently...
   
-- Studying Full Stack Web Develoment at 4Geeks Academy.
+- Giving my best to become a Full Stack Developer with the help of 4Geeks Academy.
 - Improving my programming skills.
-- Making networking with IT world.
+- Learning new lenguajes and tools.
+
   
 ---
 
