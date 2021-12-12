@@ -6,12 +6,6 @@
 
   <h1 align="center"> I'm Emmanuel :wave: :nerd_face:  </h1>
 
-
-
-[![GitHub](https://img.shields.io/github/followers/LeyCod?label=follow&style=social)](https://github.com/LeyCod)
-
-
-
 <br>
 
 <details>
