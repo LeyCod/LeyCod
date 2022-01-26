@@ -13,8 +13,12 @@
   
   <br>
   
-  [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=LeyCod&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/LeyCod/github-readme-stats)
-
+  <div align="center">
+  <a href="https://github.com/LeyCod">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeyCod&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeyCod&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+    
 ---
 
 ### - Languages and Tools...
@@ -31,6 +35,9 @@
   </a>
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/js.svg" alt="js badge" style="vertical-align:top margin:6px 4px">
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/react.svg" alt="bootstrap badge" style="vertical-align:top margin:6px 4px">
   </a> 
   <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/bootstrap.svg" alt="bootstrap badge" style="vertical-align:top margin:6px 4px">
