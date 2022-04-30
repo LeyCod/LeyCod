@@ -37,6 +37,9 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/js.svg" alt="js badge" style="vertical-align:top margin:6px 4px">
   </a>
   <a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/languages/py.svg" alt="py badge" style="vertical-align:top margin:6px 4px">
+  </a>
+  <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/4a38660afb7be89a6032218589b4454a1285c7f8/svg/dev/frameworks/react.svg" alt="bootstrap badge" style="vertical-align:top margin:6px 4px">
   </a> 
   <a href="#">
