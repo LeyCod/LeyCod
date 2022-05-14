@@ -59,10 +59,10 @@
 
 ### - I'm currently...
   
-- Giving my best to become a Full Stack Developer with the help of 4Geeks Academy.
 - Looking for my first job as Developer.    
 - Improving my programming skills.
 - Learning new languages and tools.
+- interested on web 3 and blockchain 
 
   
 ---
